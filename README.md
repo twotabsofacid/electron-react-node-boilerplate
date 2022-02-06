@@ -7,11 +7,11 @@
 This project uses the following versions of NodeJS and NPM:
 
 ```
-node -v v14.16.1
-npm -v 6.14.12
+node -v v16.8.0
+npm -v 7.21.0
 ```
 
-It probably works with other versions but no guarantees.
+It probably works with other versions (personally tested on `node -v v14.17.5` and it's fine), but no guarantees.
 
 This project requires an `.env` file. Copy `.env-example` as `.env`, which contains some port variables.
 
